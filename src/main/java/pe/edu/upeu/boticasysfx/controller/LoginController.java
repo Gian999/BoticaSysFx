@@ -16,11 +16,11 @@ import javafx.stage.Stage;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Component;
-import pe.edu.upeu.sysalmacenfx.componente.StageManager;
-import pe.edu.upeu.sysalmacenfx.componente.Toast;
-import pe.edu.upeu.sysalmacenfx.dto.SessionManager;
-import pe.edu.upeu.sysalmacenfx.model.Usuario;
-import pe.edu.upeu.sysalmacenfx.service.UsuarioService;
+import pe.edu.upeu.boticasysfx.componente.StageManager;
+import pe.edu.upeu.boticasysfx.componente.Toast;
+import pe.edu.upeu.boticasysfx.dto.SessionManager;
+import pe.edu.upeu.boticasysfx.model.Usuario;
+import pe.edu.upeu.boticasysfx.service.UsuarioService;
 
 import java.io.IOException;
 
